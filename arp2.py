@@ -48,9 +48,9 @@ def restore(destination_ip, source_ip):
 
 
 
-target_ip = "192.168.80.129"
+target_ip = "TARGET-IP"
 
-gateway_ip = "192.168.80.2"
+gateway_ip = "GATEWAY-IP"
 
 
 
